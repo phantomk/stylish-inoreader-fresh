@@ -1,5 +1,5 @@
 body {
-	text-shadow: 0 0 1px rgba(0,0,0,0.22);
+    text-shadow: 0 0 1px rgba(0,0,0,0.22);
 }
 .block_article_ad, .ad_title, .avs_iframe, #sinner_container, #all_gad_6125 {
     display: none !important;
