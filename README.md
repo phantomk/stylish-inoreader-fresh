@@ -1,2 +1,4 @@
-# stylish-inoreader-orange
-orange stylish theme for inoreader (No Ad)
+# stylish-inoreader-theme
+
+- NO AD
+- fresh
