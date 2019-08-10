@@ -1,7 +1,18 @@
 .block_article_ad, .ad_title, .avs_iframe, #sinner_container, #all_gad_6125 {
     display: none !important;
 }
-
 .reader_pane_sinner {
     padding-right: 0 !important;
+}
+.parent_div {
+    line-height: 32px;
+}
+.tree_unreaded {
+    font-weight: normal;
+}
+.article_stripe {
+    background-color: orange;
+}
+.ar, .article_unreaded, .article_subscribed, .article_no_thumbnail {
+    margin-bottom: 4px;
 }
