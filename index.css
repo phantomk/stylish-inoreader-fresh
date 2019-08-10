@@ -1,6 +1,9 @@
 .block_article_ad, .ad_title, .avs_iframe, #sinner_container, #all_gad_6125 {
     display: none !important;
 }
+#all_gad_57994 {
+    display: none !important;
+}
 .reader_pane_sinner {
     padding-right: 0 !important;
 }
@@ -14,7 +17,7 @@
     background-color: orange;
 }
 .ar, .article_unreaded, .article_subscribed, .article_no_thumbnail {
-    margin-bottom: 4px;
+    margin-bottom: 8px;
 }
 div.parent_div span.tree_unreaded.tree_unseen, div.parent_div .tree_unreaded.tree_unseen + .unread_cnt, div.parent_div .tree_unreaded.tree_unseen + .unread_cnt_wrapper {
     color: #f5712c;
